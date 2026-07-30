@@ -7,9 +7,20 @@ description: >-
   authoritative public REST API or OpenAPI specification has been identified, so
   no machine-readable contract is published here.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Reference
 access: Public
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pig-latin.png
 tags:
   - Language
   - Wordplay
