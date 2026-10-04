@@ -1,5 +1,6 @@
 aid: pig-latin
 name: Pig Latin
+kind: topic
 description: >-
   Pig Latin is a language game in which English words are altered according to a
   simple set of rules (typically moving the first consonant cluster to the end of
